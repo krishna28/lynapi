@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 var Schema = mongoose.Schema;
 
-var expertStatus = require('./expertStatus');
+var expertStatus = require('./expertstatus');
 
 var projectStatusEnum = ['NEW','PENDING']
 
